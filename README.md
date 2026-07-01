@@ -4,7 +4,7 @@
 
 This project demonstrates an end-to-end sales analysis workflow using Microsoft Excel. The dataset was cleaned, transformed, analyzed, and visualized to generate meaningful business insights through an interactive dashboard.
 
-The objective was to practice real-world data analysis techniques commonly used by Data Analysts.
+The objective was to, me practice the real-world data analysis techniques commonly used by Data Analysts.
 
 ---
 
@@ -39,9 +39,9 @@ The dataset contains chocolate sales transactions including:
 - Product
 - Date
 - Revenue
-- Boxes Sold
-- Cost
-- Profit
+- Boxes Shipped
+- Unit Price
+- Quarters
 - Month
 - Year
 
@@ -61,17 +61,15 @@ The dataset contains chocolate sales transactions including:
 - Total Profit
 - Total Boxes Sold
 - Average Revenue
-- Sales Performance
 
 ✔ Dashboard
 
 Interactive dashboard including:
 
 - Revenue Trends
-- Product Performance
 - Country-wise Sales
-- Salesperson Performance
-- Monthly Analysis
+- Total orders
+- Total Box Shipped
 
 ---
 
