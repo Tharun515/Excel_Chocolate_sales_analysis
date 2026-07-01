@@ -75,7 +75,8 @@ Interactive dashboard including:
 
 ## 📸 Dashboard Preview
 
-(Add dashboard screenshot here)
+<img width="1185" height="1055" alt="Chocolate Sales (2) - Excel 01-07-2026 23_11_53" src="https://github.com/user-attachments/assets/914a01ed-be46-421f-a6c1-498c861c7393" />
+
 
 ---
 
